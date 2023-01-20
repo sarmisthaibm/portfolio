@@ -1,0 +1,91 @@
+.cv{
+    width: auto;
+    height: 100px;
+    background-color: white;
+}
+.cv h1{
+    font-size: 40px;
+    margin-left: 5%;
+    margin-top: -3%;
+    text-shadow: 2px 2px;
+    color: black;
+}
+.cv nav{
+    float: right;
+    display: flex;
+    margin-top: 3%;
+    margin-right: 5%;
+    font-size: 23px;
+}
+.cv nav a{
+    text-decoration: none;
+}
+.cv nav :hover{
+    background-color: pink;
+}
+.cv img{
+    border-radius: 65%;
+    margin-top: 3%;
+    margin-left: 1%;
+}
+.conta h1{
+    margin-left: 20%;
+    margin-top: 8%;
+    margin-top: -1%;
+    font-size: 20px;
+
+
+}
+.conta{
+    width: auto;
+    height: 600px;
+    background-color: white;
+    margin-top: 10%;
+}
+.conta h2{
+    margin-left: 20%;
+    margin-top: 8%;
+    margin-top: -1%;
+}
+.conta h3{
+    margin-left: 20%;
+    margin-top: 8%;
+    margin-top: -1%;
+}
+.conta ol{
+    margin-left: 55%;
+    margin-top: -14%;
+}
+.conta input{
+    width: 200px;
+    height: 47px;
+}
+.conta form input{
+    width: 300px;
+    height: 150px;
+}
+.conta img{
+    float: right;
+    margin-right: 27%;
+    margin-top: -32%;
+}
+.footer h5{
+    margin-left: 3%;
+    font-size: 20px;
+}
+.footer h2{
+    margin-left: 20%;
+    margin-top: -5%;
+}
+.footer h3{
+    margin-left: 50%;
+    margin-top: -3%;
+}
+.footer h4{
+    margin-left: 70%;
+    margin-top: -7%;
+}
+.footer{
+    width: auto;
+    height: 100px;
+}

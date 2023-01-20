@@ -1,0 +1,102 @@
+.cv{
+    width: auto;
+    height: 1000px;
+    background-color: whitesmoke;
+}
+.cv h1{
+    font-size: 40px;
+    margin-left: 5%;
+    margin-top: -3%;
+    text-shadow: 2px 2px;
+    color: black;
+    
+}
+.cv nav{
+    float: right;
+    display: flex;
+    margin-top: 3%;
+    margin-right: 5%;
+    font-size: 23px;
+}
+.cv nav a{
+    text-decoration: none;
+}
+.cv nav :hover{
+    background-color: pink;
+}
+.cv img{
+    border-radius: 65%;
+    margin-top: 3%;
+    margin-left: 1%;
+}
+.cvAA img{
+    margin-left: 18%;
+    margin-top: 2%;
+}
+.cvAA h2{
+    font-size: 120px;
+    float: right;
+    margin-right: 35%;
+    font-style: arial mt;
+    margin-top: -1%;
+    color:darkslategray;
+    
+}
+.cvAA{
+    height: 700px;
+    width: auto;
+    background-color: whitesmoke;
+}
+.cvAA p{
+    float: right;
+    margin-right: 35%;
+    margin-left: 48%;
+    text-align: justify;
+    margin-top: -14%;
+    font-style: italic;
+    font-size: 20px;
+}
+.cvAA h3{
+    float: right;
+    margin-right: 40%;
+    margin-top: -18%;
+    font-size: 25px;
+}
+.cvAA button{
+    width: 120px;
+    height: 100px;
+    float: right;
+    margin-right: 25%;
+    margin-left: -23%;
+    border-radius: 50%;
+    background-color: aqua;
+    
+}
+.cvAA button a{
+    text-decoration: none;
+    font-size: 23px;
+}
+.cvAA button:hover{
+    background-color: greenyellow;
+    display: inline;
+}
+.footer h5{
+    margin-left: 3%;
+    font-size: 20px;
+}
+.footer h2{
+    margin-left: 20%;
+    margin-top: -5%;
+}
+.footer h3{
+    margin-left: 50%;
+    margin-top: -3%;
+}
+.footer h4{
+    margin-left: 70%;
+    margin-top: -7%;
+}
+.footer{
+    width: auto;
+    height: 100px;
+}

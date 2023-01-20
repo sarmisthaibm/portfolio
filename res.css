@@ -1,0 +1,167 @@
+.cv{
+    width: auto;
+    height: 100px;
+    background-color: white;
+}
+.cv h1{
+    font-size: 40px;
+    margin-left: 5%;
+    margin-top: -3%;
+    text-shadow: 2px 2px;
+    color: black
+}
+.cv nav{
+    float: right;
+    display: flex;
+    margin-top: 3%;
+    margin-right: 5%;
+    font-size: 23px;
+}
+.cv nav a{
+    text-decoration: none;
+}
+.cv nav :hover{
+    background-color: pink;
+}
+.cv img{
+    border-radius: 65%;
+    margin-top: 3%;
+    margin-left: 1%;
+}
+.bio{
+    width: auto;
+    height: 350px;
+    background-color: white;
+    margin-top: -3%;
+}
+.bio h1{
+    margin-top: 5%;
+    margin-left: 15%;
+    font-size: 50px;
+}
+.bio h2{
+    margin-top: 7%;
+    margin-left: 15%;
+}
+.bio h3{
+    margin-left: 60%;
+    margin-top: -5%;
+}
+.bio h4{
+    margin-left: 70%;
+}
+.bio h4{
+    margin-top: -3%;
+    font-size: 30px;
+}
+.bio p{
+    margin-left: 70%;
+    margin-right: 15%;
+    text-align: justify;
+}
+.inter{
+    width: auto;
+    height: 300px;
+    background-color: white;
+}
+.wix{
+    width: auto;
+    height: 350px;
+    background-color: white;
+}
+.inter h3{
+    margin-left: 60%;
+    margin-top: -3%;
+}
+.inter p{
+    margin-left: 70%;
+    margin-right: 15%;
+    text-align: justify;
+}
+.inter h1{
+    margin-left: 70%;
+    margin-top: 3%;
+}
+.wix h1{
+    margin-left: 60%;
+    margin-top: -5%;
+    font-size: 20px;
+}
+.wix h4{
+    margin-left: 70%;
+    font-size: 30px;
+    margin-top: -3%;
+}
+.wix p{
+    margin-left: 70%;
+    margin-right: 15%;
+    text-align: justify;
+}
+.head{
+    width: auto;
+    height: 450px;
+    background-color: white;
+}
+.head h1{
+    margin-left: 15%;
+    font-size: 50px;
+}
+.head h2{
+    margin-left: 60%;
+}
+.head h3{
+    margin-left: 70%;
+    margin-top: -3%;
+    text-align: justify;
+}
+.head p{
+    margin-left: 70%;
+    margin-right: 15%;
+    text-align: justify;
+}
+.head h4{
+    margin-left: 60%;
+    font-size: 25px;
+}
+.head h5{
+    margin-left: 70%;
+    margin-top: -3%;
+    text-align: justify;
+    font-size: 20px;
+}
+.tail{
+    height: 300px;
+    width: auto;
+    background-color: white;
+}
+.tail h1{
+    margin-left: 15%;
+    font-size: 40px;
+}
+.tail li{
+    margin-left: 70%;
+    margin-right: 10%;
+    text-align: justify;
+}
+.footer h5{
+    margin-left: 7%;
+    font-size: 20px;
+    margin-top: 5%;
+    
+}
+.footer h2{
+    margin-left: 20%;
+    margin-top: -5%;
+}
+.footer h3{
+    margin-left: 50%;
+    margin-top: -3%;
+}
+.footer h4{
+    margin-left: 70%;
+    margin-top: -5%;
+}
+.footer{
+    width: auto;
+    height: 100px;
+}

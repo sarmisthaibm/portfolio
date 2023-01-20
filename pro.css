@@ -1,0 +1,122 @@
+.cv{
+    width: auto;
+    height: 100px;
+    background-color: white;
+}
+.cv h1{
+    font-size: 40px;
+    margin-left: 5%;
+    margin-top: -3%;
+    text-shadow: 2px 2px;
+    color: black;
+}
+.cv nav{
+    float: right;
+    display: flex;
+    margin-top: 3%;
+    margin-right: 5%;
+    font-size: 23px;
+}
+.cv nav a{
+    text-decoration: none;
+}
+.cv nav :hover{
+    background-color: pink;
+}
+.cv img{
+    border-radius: 65%;
+    margin-top: 3%;
+    margin-left: 1%;
+}
+.proj{
+    width: auto;
+    height: 600px;
+    background-color: white;
+}
+.proj h1{
+    margin-left: 20%;
+    font-size: 40px;
+    margin-top: 3%;
+    
+}
+.proj h2{
+    margin-left: 20%;
+    font-size: 30px;
+    margin-top: 8%;
+}
+.proj p{
+    margin-left: 20%;
+    font-size: 20px;
+    text-align: justify;
+    margin-right: 55%;
+    margin-top: 5%;
+}
+.proj img{
+    float: right;
+    margin-right: 20%;
+    margin-top: -10%;
+}
+.para{
+    width: auto;
+    height: 600px;
+    background-color: white;
+}
+.para h1{
+    margin-left: 20%;
+    font-size: 40px;
+    margin-top: 3%;
+}
+.para p{
+    margin-left: 20%;
+    font-size: 20px;
+    text-align: justify;
+    margin-right: 55%;
+    margin-top: 5%;
+}
+.para img{
+    float: right;
+    margin-right: 20%;
+    margin-top: -10%;
+}
+.graph{
+    width: auto;
+    height: 500px;
+    background-color: white;
+}
+.graph h1{
+    margin-left: 20%;
+    font-size: 40px;
+    margin-top: -7%;
+}
+.graph p{
+    margin-left: 20%;
+    font-size: 20px;
+    text-align: justify;
+    margin-right: 55%;
+    margin-top: 5%;
+}
+.graph img{
+    float: right;
+    margin-right: 20%;
+    margin-top: -10%;
+}
+.footer h5{
+    margin-left: 3%;
+    font-size: 20px;
+}
+.footer h2{
+    margin-left: 20%;
+    margin-top: -5%;
+}
+.footer h3{
+    margin-left: 50%;
+    margin-top: -3%;
+}
+.footer h4{
+    margin-left: 70%;
+    margin-top: -7%;
+}
+.footer{
+    width: auto;
+    height: 100px;
+}
